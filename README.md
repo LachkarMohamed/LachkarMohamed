@@ -6,15 +6,6 @@ I'm a passionate student and programmer with diverse experience in:
 
 I'm currently honing my skills in application development and would love to collaborate on exciting video game projects using Unity. 🚀  
 
-### 🌍 Languages
-I am fluent in:  
-- English  
-- French  
-- Arabic  
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Lachkar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-lachkar-60a564307/)
-
 ---
 
 ### 🛠️ Languages and Tools:
@@ -60,7 +51,16 @@ I am fluent in:
   </a>
 </p>
 
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Lachkar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-lachkar-60a564307/)
+
 ---
+
+### 🌍 Languages
+I am fluent in:  
+- English  
+- French  
+- Arabic  
 
 ### 🎯 Goal
 - 🌱 Currently improving my skills in app and game development.  
