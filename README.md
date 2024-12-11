@@ -1,17 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LachkarMohamed.LachkarMohamed" />
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Lachkar+Mohamed!;+Welcome+to+my+GitHub+profile!" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&color=F7A51C&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+👋;I'm+Lachkar+Mohamed!;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</div>
 
 ---
 
 <h3 align="center">🚀 A Passionate Student and Programmer 🚀</h3>
 
 <div align="center">
+
 🔭 **Currently Studying**: Computation Science  
 🌱 **Developing Skills**: Desktop and Android Applications  
 🎮 **Proficient In**: Unity 3D & Blender  
 💡 **Passionate About**: Creating immersive gaming and software experiences  
-🚀 **Fun Fact**: Coding is a lot like gaming—debugging feels like fighting bosses. The semicolon boss is the hardest one! 😅
+🚀 **Fun Fact**: Coding is a lot like gaming—debugging feels like fighting bosses. The semicolon boss is the hardest one! 😅  
+
 </div>
 
 ---
