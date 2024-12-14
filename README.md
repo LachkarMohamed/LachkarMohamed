@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=35ADB0&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Lachkar+Mohamed!;+Welcome+to+my+GitHub+profile!" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">🚀 A Passionate Student and Programmer 🚀</h3>
 
@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Skills & Tools:
 #### 🎮 Game Development:
@@ -65,23 +65,41 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
+<table>
+  <tr>
+    <td >
+      <img src="https://github-profile-trophy.vercel.app/?username=lachkarmohamed&theme=onedark&row=2&column=4" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachkarmohamed&layout=compact&langs_count=5&card_width=500&theme=dracula" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lachkarmohamed&theme=dark&background=000000" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=lachkarmohamed&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌍 Languages:
 - **English**  
 - **French**  
 - **Arabic**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎯 Goals:
 - 🌱 Improving skills in app and game development  
 - 🤝 Open to collaborations on Unity game projects  
 - 🚀 Exploring new tools and technologies to enhance my projects  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Lachkar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-lachkar-60a564307/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
