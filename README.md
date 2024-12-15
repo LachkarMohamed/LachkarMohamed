@@ -1,3 +1,5 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LachkarMohamed.LachkarMohamed" />
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=35ADB0&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Lachkar+Mohamed!;+Welcome+to+my+GitHub+profile!" />
