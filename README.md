@@ -76,6 +76,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lachkarmohamed&theme=default" alt="lachkarmohamed" /></a> </p>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lachkarmohamed&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=lachkarmohamed&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
