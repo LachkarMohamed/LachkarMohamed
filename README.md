@@ -37,7 +37,7 @@
 #### 💻 Programming Languages:
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js" />
+     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,matlab" />
   </a>
 </p>
 
