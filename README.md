@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🔭 **Currently Studying**: Computation Science  
-🌱 **Developing Skills**: Desktop and Android Applications  
-🎮 **Proficient In**: Unity 3D & Blender  
+🎓 **Currently Studying**: Computational Science  
+💻 **Developing Skills**: Desktop & Android Applications  
+🎮 **Proficient In**: Unity 3D, Blender  
 💡 **Passionate About**: Creating immersive gaming and software experiences  
-🚀 **Fun Fact**: Coding is a lot like gaming—debugging feels like fighting bosses. The semicolon boss is the hardest one! 😅  
+🚀 **Fun Fact**: Coding feels like gaming—debugging is battling bosses! 😅  
 
 </div>
 
@@ -27,39 +27,53 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Skills & Tools:
+
 #### 🎮 Game Development:
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=unity,blender" />
+    <img src="https://skillicons.dev/icons?i=unity,blender" />
   </a>
 </p>
 
 #### 💻 Programming Languages:
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,matlab" />
   </a>
 </p>
 
 #### 🌐 Web Development:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+  </a>
 </p>
 
 #### 🗄️ Databases:
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=php,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,mysql" />
+  </a>
+</p>
+
+#### 🛠️ Development Tools:
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=eclipse" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
+### 📊 GitHub Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lachkarmohamed&theme=default" alt="lachkarmohamed" /></a> </p>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lachkarmohamed&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=lachkarmohamed&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -73,16 +87,14 @@
 - **French**  
 - **Arabic**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎯 Goals:
-- 🌱 Improving skills in app and game development  
-- 🤝 Open to collaborations on Unity game projects  
-- 🚀 Exploring new tools and technologies to enhance my projects  
+- 🚀 Enhance game development expertise using Unity 3D & Blender  
+- 🤝 Collaborate on exciting open-source projects  
+- 🌱 Explore emerging technologies like AI in games  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📫 Connect With Me:
+### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Lachkar-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-lachkar-60a564307/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
