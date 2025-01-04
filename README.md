@@ -58,14 +58,8 @@
 
 #### 🛠️ Development Tools:
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=eclipse" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse" />
   </a>
 </p>
 
