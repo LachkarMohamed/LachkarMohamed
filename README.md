@@ -52,7 +52,7 @@
 #### 🗄️ Databases:
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,mysqlworkbench" />
   </a>
 </p>
 
