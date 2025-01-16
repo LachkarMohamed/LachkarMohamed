@@ -93,7 +93,7 @@
 
 
 ### 🎯 Goals:
-- 🚀 Enhance game development expertise using Unity 3D & Blender  
+- 🚀 Enhance game development expertise using Unity 2D, 3D & Blender  
 - 🤝 Collaborate on exciting open-source projects  
 - 🌱 Explore emerging technologies like AI in games  
 
