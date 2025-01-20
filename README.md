@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎓 **Currently Studying**: Computational Science  
+🎓 ***Currently Studying***: Computational Science  
 💻 **Developing Skills**: Desktop & Android Applications  
 🎮 **Proficient In**: Unity 3D, Blender  
 💡 **Passionate About**: Creating immersive gaming and software experiences  
