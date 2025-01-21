@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🎓 ***Currently Studying***: Computational Science  
-💻 ***Developing Skills***: Desktop & Android Applications  
-🎮 ***Proficient In***: Unity 3D, Blender  
+🎓 **Currently Studying**: Computational Science  
+💻 **Developing Skills**: Desktop & Android Applications  
+🎮 **Proficient In**: Unity 3D, Blender  
 💡 ***Passionate About***: Creating immersive gaming and software experiences  
-🚀 ***Fun Fact***: Coding feels like gaming—debugging is battling bosses! 😅  
+🚀 **Fun Fact**: Coding feels like gaming—debugging is battling bosses! 😅  
 
 </div>
 
