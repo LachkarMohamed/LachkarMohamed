@@ -12,7 +12,7 @@
 
 🎓 ***Currently Studying***: Computational Science  
 💻 ***Developing Skills***: Desktop & Android Applications  
-🎮 **Proficient In**: Unity 3D, Blender  
+🎮 ***Proficient In***: Unity 3D, Blender  
 💡 ***Passionate About***: Creating immersive gaming and software experiences  
 🚀 ***Fun Fact***: Coding is a lot like gaming—debugging feels like fighting bosses. The semicolon boss is the hardest one! 😅  
 
